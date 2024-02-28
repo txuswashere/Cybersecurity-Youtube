@@ -1,5 +1,36 @@
 # Cybersecurity-Youtube
 
+ ### Cybersecurity & Hacking Documentaries
+ 
+- [21st Century Hackers](https://www.youtube.com/watch?v=nsKIADw7TEM)
+- [Chasing Edward Snowden](https://www.youtube.com/watch?v=8YkLS95qDjI)
+- [Cyber Defense: Military Training for Cyber Warfare](https://www.youtube.com/watch?v=rcDizlmjNQY)
+- [Dark Web Fighting Cybercrime Full Hacking](https://www.youtube.com/watch?v=PjfX4CjSVGE)
+- [Def Con: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg)
+- [Drones, hackers and mercenaries - The future of war](https://www.youtube.com/watch?v=MZ60UDys_ZE)
+- [Guardians Of The New World (Hacking Documentary)](https://www.youtube.com/watch?v=jUFEeuWqFPE)
+- [Hacker Hunter: WannaCry The History Marcus Hutchin](https://www.youtube.com/watch?v=vveLaA-z3-o)
+- [Hacker The Realm and Electron - Hacker Group](https://www.youtube.com/watch?v=GcnkEPTy3QI)
+- [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM)
+- [Hackers in wonderland](https://www.youtube.com/watch?v=fe8GsPCpE7E)
+- [Hackers Wanted](https://www.youtube.com/watch?v=Mn3ooBnShtY)
+- [Hackers World](https://www.youtube.com/watch?v=1A3sQO_bQ_E)
+- [High Tech Hackers Documentary](https://www.youtube.com/watch?v=l2fB_O5Q6ck)
+- [In the Realm of the Hackers](https://www.youtube.com/watch?v=0UghlW1TsMA)
+- [Secret History Of Hacking](https://www.youtube.com/watch?v=PUf1d-GuK0Q) 
+- [The Future of Cyberwarfare](https://www.youtube.com/watch?v=L78r7YD-kNw)
+- [The Hacker Wars](https://www.youtube.com/watch?v=ku9edEKvGuY)
+- [THE INSIDE LIFE OF A HACKER](https://www.youtube.com/watch?v=CuESlhKLhCY)
+- [The Internet’s Own Boy: The Story Of Aaron Swartz](https://www.youtube.com/watch?v=M85UvH0TRPc) 
+- [The Life Hacker Documentary](https://www.youtube.com/watch?v=TVgJmAJsOeQ)
+- [The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8)
+- [Wannacry: The Marcus Hutchins Story](https://www.youtube.com/watch?v=vveLaA-z3-o)
+- [We Are Legion – The Story Of The Hacktivists](https://www.youtube.com/watch?v=ZHl0WI32XkY) 
+- [Web Warriors](https://www.youtube.com/watch?v=0IY7DL0ihYI) 
+
+
+### Cybersecurity Youtube Channels
+
 - [13Cubed](https://www.youtube.com/user/davisrichardg)
 - [247CTF](https://youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)
 - [Ankit Chauhan](https://www.youtube.com/channel/UCnSYKuocC7_EyBVTvhLT6vg) 
